@@ -1,0 +1,22 @@
+{
+  "name": "elm-issue",
+  "version": "0.0.1",
+  "description": "inference issue",
+  "main": "index.js",
+  "scripts": {
+    "build": "elm make src/MainModule.elm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Birowsky/elm-inference-issue.git"
+  },
+  "author": "birowsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Birowsky/elm-inference-issue/issues"
+  },
+  "homepage": "https://github.com/Birowsky/elm-inference-issue#readme",
+  "devDependencies": {
+    "elm": "^0.19.0-no-deps"
+  }
+}
